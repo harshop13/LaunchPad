@@ -1,0 +1,37 @@
+# Thanks for Downloading My Plugin I am Very new In the Developing stuff Please Bare with me
+# Thnx Again ..
+
+# These Options are for Launch pads
+
+# Disable if you want!
+enable-message: true
+enable-launchpad: true
+
+
+# Use Color Codes and Change to ur Custom Message
+player-message: "&4&kWhoosh!!"
+
+
+# The First Block
+main-block: "STONE_PRESSURE_PLATE" # Make Sure To add the Proper Minecraft Item Id
+
+# The Block Below the 1st Block
+second-block: "REDSTONE_BLOCK"
+
+# Speed of the Player
+speed: 3
+
+# The Flight height of the player
+height: 1
+
+# These Options are for teleport Bow :D
+enable-bow: true
+
+# Name of the Bow
+bow-name: "&0&kTeleport Bow"
+
+# Message after Teleporting
+message: "&1&K WHoosh!"
+
+
+# ~ harsh
